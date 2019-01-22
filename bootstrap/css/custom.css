@@ -1,0 +1,14 @@
+.help-block{
+	display: none;
+}
+sup{
+	font-size: 18px;
+    color: #fb0000;
+}
+.form-heading{
+	margin-bottom: 30px;
+}
+select{
+	background: #eee;
+    color: #000;
+}
